@@ -7,7 +7,6 @@
 ConfigPath = "PTHT-SETTING.json"
 Android, Windows = true, true
 
------ main sc
 
 
 
